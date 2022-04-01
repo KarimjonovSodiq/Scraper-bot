@@ -1,0 +1,13 @@
+pipenv
+pyowm
+Pygments
+pyparsing
+pyTelegramBotAPI
+python-telegram-bot
+requests
+schedule
+bs4
+urllib2
+
+
+
