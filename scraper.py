@@ -7,7 +7,7 @@ finds the title, description and the list of contents and lessons (not
 available in all books) of the daily free book and stores it in a text
 file."""
 
-import urllib2
+import urllib3
 
 import bs4
 
